@@ -1,0 +1,14 @@
+{
+  "name": "001",
+  "version": "1.0.0",
+  "description": "ETH Programming Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Reaves <thesamreaves@gmail.com> (http://www.github.com/samreaves)",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "0.4.19"
+  }
+}
